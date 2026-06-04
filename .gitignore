@@ -1,0 +1,10 @@
+# untracked global files
+
+# general 
+__pycache__/
+.DS_Store/
+
+# claude 
+.cluade/
+
+
